@@ -1,11 +1,18 @@
 Password Manager
+
 The program can save passwords and generate random ones.
 This was mainly a programming exercise, not a real secure password manager (obviously).
+
 What it does
+
  • Add a username and password
+
  • Save account information
+
  • View saved accounts
+
  • Generate random passwords
+
  • Store the information in a local file
 
 How to run
